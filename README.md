@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehriban-ali-seyidbayli&label=Profile%20views&color=0e75b6&style=flat" alt="mehriban-ali-seyidbayli" /> </p>
 
-- 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
