@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehriban Ali Seyidbayli</h1>
+<h1 align="center">Hi 👋, I'm Mehriban Aliyeva Seyidbayli</h1>
 <h3 align="center">A passionate Frontend developer from Azerbaijan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
